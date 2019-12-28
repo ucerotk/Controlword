@@ -1,0 +1,6 @@
+git clone https://github.com/gitwatch/gitwatch.git
+echo "Clonado gitwatch"
+pwd
+cd gitwatch
+pwd
+[sudo] install -b gitwatch.sh /usr/local/bin/gitwatchcd watchman
